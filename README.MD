@@ -9,7 +9,7 @@
 
 Projeto construido atraves dos desafios do Intensivão do Explorer.
 
- [🔗 Clique aqui para acessar]()
+ [🔗 Clique aqui para acessar](https://sebastiao-vitor.github.io/Desafio-Explore-sem-limites/)
 
 ## 🧰🛠️ Tecnologias
 
