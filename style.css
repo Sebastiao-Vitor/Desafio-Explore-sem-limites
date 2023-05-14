@@ -216,11 +216,11 @@ button, input, fieldset, textarea {
 }
 
 #name {
-  background: url(/images/person-email.svg) no-repeat scroll 1.4rem 1.2rem;
+  background: url(./images/person-email.svg) no-repeat scroll 1.4rem 1.2rem;
 }
 
 #email {
-  background: url(/images/@.svg) no-repeat scroll 1.4rem 1.2rem;
+  background: url(./images/@.svg) no-repeat scroll 1.4rem 1.2rem;
 }
 
 .my-form button {
@@ -314,7 +314,7 @@ footer:hover {
   }
 
   .footer-wrapper{
-    background: url(/images/estrelinhas.svg) no-repeat right;
+    background: url(./images/estrelinhas.svg) no-repeat right;
   }
 
   .footer-wrapper .my-form {
